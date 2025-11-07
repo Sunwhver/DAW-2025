@@ -14,7 +14,6 @@ function App() {
       <MovieContent></MovieContent>
     </main>
     <Footer />
-
     
     </>
   )
