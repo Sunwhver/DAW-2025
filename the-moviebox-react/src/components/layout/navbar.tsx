@@ -23,20 +23,6 @@ export function Navbar() {
                         </a>
                     </li>
                 ))}
-
-
-                <li>
-                    <a href="#" className="active">Mais Assistidos</a>
-                </li>
-                <li>
-                    <a href="#">Mais Votados</a>
-                </li>
-                <li>
-                    <a href="#">Novidades</a>
-                </li>
-                <li>
-                    <a href="#">Gêneros</a>
-                </li>
             </ol>
         </nav>
     )

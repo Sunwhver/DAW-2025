@@ -10,6 +10,6 @@ export function FooterLink({
     return (
         <a className="text-[#a0a0a0] hover:text-white" href="#">
             { children }
-        </a>
-    )
+        </a>
+    )
 }

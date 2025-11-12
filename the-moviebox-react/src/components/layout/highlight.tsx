@@ -19,7 +19,7 @@ const Highlight: FC = () => {
         }}
       ></div>
 
-      <div className="container flex flex-col md:flex-row gap-8 py-8 z-20 max-w-6xl mx-auto px-4 md:px-8">
+      <div className="container flex flex-col md:flex-row gap-8 py-8 z-20 max-w-6xl mx-auto px-4">
         <img
           className="rounded-xl w-[360px] h-[500px] object-cover shadow-2xl z-20"
           src="/img/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg"
